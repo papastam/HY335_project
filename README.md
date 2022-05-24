@@ -18,3 +18,6 @@ cd build
 cmake ..
 make
 ```
+## Coowners
+Orestis Chiotakis csd4275 (https://github.com/chiotak0)
+Dimitris Bisias csd4273 (https://github.com/dbisias)
